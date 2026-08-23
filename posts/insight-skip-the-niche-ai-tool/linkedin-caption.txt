@@ -1,0 +1,11 @@
+Every AI vendor in this industry says the same thing. Our tool was built for construction, so it understands your business better than a general model could.
+
+Open the hood on many of those products and you find the same foundation model underneath, repackaged with a workflow and a markup. You are often paying a premium for an interface.
+
+Specialization is worth paying for when the vendor owns something you cannot replicate. A regional cost database. A code library. A live feed into your project data. That is an asset. A chat window is not.
+
+So our default advice is to stand up one general purpose enterprise tool first, build real workflows on it, and add a point solution only once you can name the proprietary asset you are buying.
+
+For more information check our website.
+
+#AEC #AIforAEC #ConstructionTech

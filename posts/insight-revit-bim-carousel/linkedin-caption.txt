@@ -1,0 +1,11 @@
+Most Revit and BIM demos show you the impressive thing. The useful thing is usually quieter.
+
+What we actually see working: clash detection triage, where AI sorts the list so your team reviews what matters first instead of grinding top to bottom. Family management, the cleaning and tagging and standardizing nobody wants to own. Drawing cleanup, the annotation and sheet setup that used to eat a junior engineer's afternoon.
+
+None of that is glamorous. All of it is billable time your team is spending right now.
+
+Before you pilot anything, ask one question. Does this save time on work we already do every week, or does it just look good in a demo? That usually sorts the market for you.
+
+For more information check our website.
+
+#AEC #BIM #AIforAEC

@@ -1,0 +1,13 @@
+The AI conversation in AEC keeps circling job loss. We think the sharper risk is job skipping.
+
+Redlines, first pass QC, quantity takeoffs, code checks. Those are exactly the reps that taught early career engineers to spot problems, and they are the first things AI absorbs.
+
+The apprenticeship math is the problem. Most firms plan on five to seven years of hands on review work before an engineer runs drawings solo, and that clock does not reset just because AI does the first pass faster.
+
+So here is our call. Firms optimizing purely for speed this year will feel a reviewer shortage in three to five years, right as licensed reviewer retirements accelerate.
+
+Design the training loop before you scale the shortcut.
+
+For more information check our website.
+
+#AEC #AIforAEC #ConstructionTech
