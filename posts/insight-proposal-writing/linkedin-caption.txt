@@ -1,0 +1,11 @@
+Proposals are where most AEC firms first try AI, and where the failure mode is most expensive.
+
+The genuinely useful part is reuse. Past project descriptions, staff resumes, and boilerplate are already yours and already approved, so a tool that reshapes them into a new format is doing real work with no invention required. Matching your experience against what the RFP actually scores is the same kind of task.
+
+The danger is anything a reviewer can check. Invented project references, a wrong credential, a number nobody verified. That is how a firm loses a shortlist and its credibility in the same afternoon.
+
+Draft with the tool. Verify the claims about your people and your projects with someone who knows them.
+
+For more information check our website.
+
+#AEC #AIforAEC #ConstructionTech
