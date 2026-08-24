@@ -1,0 +1,13 @@
+We hear this from licensed firms constantly, and the premise does not hold up.
+
+Your stamp was never insured by the tool. State boards discipline engineers for signing off on unreviewed work, not for the software sitting behind it, and that standard predates AI by decades. Firms were sanctioned for rubber stamping a junior's drawings or an unchecked consultant calc long before any of this arrived.
+
+The risk was always weak review.
+
+So avoiding AI does not remove your exposure. An engineer of record who stops reviewing carefully is the exposure, whether the first draft came from a staffer or a model. Skipping the tool does not fix that habit. It just removes the upside.
+
+Risk management starts with review, not avoidance.
+
+For more information check our website.
+
+#AEC #AIforAEC #AECentric

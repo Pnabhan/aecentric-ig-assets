@@ -1,0 +1,11 @@
+There is a question I keep coming back to when a firm tells me they have adopted AI. Adopted what, exactly?
+
+Getting people to use a tool is one project. Getting the underlying data clean enough that the tool's output is worth trusting is a second, and it is usually the harder one. Actually moving a number your firm already tracks is a third.
+
+They get collapsed into one word, and that is why so many firms feel busy and stuck at the same time. Licenses went out, usage went up, and nothing downstream changed.
+
+If you are trying to figure out where your firm actually is, skip the usage stats and ask which number moved.
+
+For more information check our website.
+
+#AEC #AIforAEC #AECentric

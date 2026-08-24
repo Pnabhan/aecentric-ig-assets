@@ -1,0 +1,11 @@
+US data centers used roughly 4.4 percent of the country's electricity in 2023. Berkeley Lab projects 11.8 percent by 2030, inside a range that runs as high as 15.3 percent.
+
+For our industry the number is not a headline, it is a workload. That demand has to be sited, designed, permitted, and energized, and power availability now drives site selection more than land price does.
+
+Most AEC firms are not staffed for that yet. The ones building the capability now, in the markets that can actually energize, are the ones who will be in the room for the next decade of this buildout.
+
+Source: Lawrence Berkeley National Laboratory, United States Data Center Energy Usage Report, prepared for the US Department of Energy.
+
+For more information check our website.
+
+#AEC #DataCenters #ConstructionTech

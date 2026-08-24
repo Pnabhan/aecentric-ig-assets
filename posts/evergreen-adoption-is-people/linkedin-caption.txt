@@ -1,0 +1,13 @@
+When adoption stalls, the tool is rarely the reason.
+
+A great tool handed to an untrained team sits unused. A modest tool with a clear ten minute walkthrough gets adopted the same week. Training beats tooling more often than firms expect.
+
+Trust matters just as much, and it gets earned in public. Let your team watch the tool get something wrong and see how you handle it. Staying quiet about failures kills trust faster than the failure itself.
+
+Then there is fit. The tool has to slot into the review, sign off, and file naming your team already uses, or people quietly route around it.
+
+Before you buy anything, map who touches the workflow, what they will stop doing, and who owns the outcome.
+
+For more information check our website.
+
+#AEC #AIforAEC #ConstructionTech

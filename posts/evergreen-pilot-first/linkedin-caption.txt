@@ -1,0 +1,11 @@
+Firm wide AI rollouts fail for a boring reason. Nobody agreed in advance on what success would look like.
+
+So we run pilots narrow. One workflow, chosen carefully enough to give you a clean test rather than a firm wide experiment. One team, small enough to commit to a new process without fighting the daily crunch of every project in the office. Twelve weeks, long enough to clear the learning curve and short enough to hold everyone's attention.
+
+Then it ends with a number, not a feeling.
+
+If the pilot does not move a metric you already track, you have your answer before you roll anything out. That is a cheap answer to buy.
+
+For more information check our website.
+
+#AEC #AIforAEC #ConstructionTech

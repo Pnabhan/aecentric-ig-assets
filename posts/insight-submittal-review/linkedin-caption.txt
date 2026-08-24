@@ -1,0 +1,13 @@
+The fear with automating submittal review is that a tool starts approving things. That is not the design we recommend.
+
+Split the work into five stages: intake, classification, spec check, risk flagging, and routing. The tool never marks a submittal approved. It sorts and surfaces, and it stops there.
+
+Four rules keep it honest. No auto approval, no silent overrides, a full audit trail, and mandatory human sign off on anything flagged.
+
+What you get back is attention. Low risk, repetitive submittals move fast, and your engineers spend their judgment on the ones that actually need it.
+
+AI can sort a queue. It cannot carry your stamp or your liability.
+
+For more information check our website.
+
+#AEC #ConstructionTech #AIforAEC
