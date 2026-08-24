@@ -1,0 +1,13 @@
+The Architecture Billings Index came in at 46.6 for July. Anything under 50 means billings fell again, and the decline has now run close to three and a half years.
+
+So the honest question is not whether AI is promising. It is whether you should spend on it while work is scarce.
+
+Our answer is yes, but narrowly. In a soft market, software is the easiest line to cut and the hardest to restart, because nobody wants to make the case for it twice. That argues for funding fewer things, not pausing everything.
+
+Fund what shortens a pursuit. How fast you respond, how well you scope, how quickly a proposal gets out the door. Those touch revenue you are actively chasing. A firm wide rollout can wait for a better quarter.
+
+Source: AIA/Deltek Architecture Billings Index, July 2026.
+
+For more information check our website.
+
+#AEC #AIforAEC #ArchitectureEngineering
