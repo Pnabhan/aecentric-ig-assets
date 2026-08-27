@@ -1,0 +1,13 @@
+Most firms we talk to want an AI policy and are not sure what goes in one. Three actions cover most of the risk.
+
+First, map what your firm is actually using. That includes the tools people adopted on their own, which is usually a longer list than leadership expects. You cannot govern a subscription you do not know exists.
+
+Second, classify risk by where the output lands. Anything that reaches a client deliverable is high risk by definition, and a licensed professional has to own it. Internal research and a first draft of a memo are not the same category.
+
+Third, write the acceptable use policy down. Data handling, output review, sign off. Three sections, plain language, short enough that people read it instead of filing it.
+
+The rule underneath all three is the one worth repeating to your team. AI can assist, but a licensed professional must review, validate, and take responsibility for the work. Everything else is implementation detail.
+
+For more information check our website.
+
+#AEC #AIforAEC #AECentric

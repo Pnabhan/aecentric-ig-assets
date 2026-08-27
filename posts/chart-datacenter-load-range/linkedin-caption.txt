@@ -1,0 +1,13 @@
+Most data center load charts show you one number for 2030. The honest version shows a band.
+
+Berkeley Lab's 2025 update puts US data centers at about 4.4 percent of national electricity in 2023, roughly 176 terawatt hours, built bottom up from actual IT equipment shipment data. Its reference case for 2030 is 11.8 percent. The scenario range around it runs from 9.5 to 15.3 percent.
+
+That spread is not a weakness in the model. It is the actual state of knowledge, and the gap between the low and high case is larger than the entire 2023 figure.
+
+We draw the two differently on purpose above. The 2023 number is measured. The 2030 number is modeled. Treating a projection as a measurement is the most common way this topic gets oversold, usually by someone selling into it.
+
+For an AEC audience the takeaway holds across the whole band. Even the low case is a large amount of load that has to be sited, designed, and energized by somebody.
+
+For more information check our website.
+
+#AEC #DataCenters #ArchitectureEngineering

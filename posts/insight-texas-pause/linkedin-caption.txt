@@ -1,0 +1,13 @@
+On August 3, Texas stopped connecting new data centers to the grid. Eight days later, a federal agency cut its forecast for the state by eight points.
+
+Governor Abbott directed the Public Utility Commission of Texas and ERCOT to audit projects sitting in the interconnection queue before any more advance. That queue holds roughly 474 gigawatts of requests, about 90 percent of it data centers, and more than five times the highest demand ERCOT has ever served. The audit is expected to run into December.
+
+Then on August 11 the EIA cut its 2027 Texas load growth forecast from 14 percent to 6 percent, naming the pause as the reason.
+
+That second part is what makes this more than a news item. Forecasts from federal statistical agencies do not usually move eight points in eight days, and when one does, it is telling you the constraint was never capital or land.
+
+For anyone chasing this work: the interconnection queue and the permitting politics belong in your go or no go math, not in a risk appendix. Power, water, and public consent are what gate these projects now.
+
+For more information check our website.
+
+#AEC #DataCenters #ConstructionTech
