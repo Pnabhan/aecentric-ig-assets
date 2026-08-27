@@ -1,0 +1,13 @@
+Every AI vendor in this industry opens the same way. Our tool was built for construction, so it understands your business better than a general model could.
+
+Sometimes that is true. Usually it is an interface with a markup on top of the same foundation model you already license.
+
+Two questions sort it, and they are the axes above. Does the vendor own a data asset you genuinely cannot rebuild, like a regional cost database, a code library, or a live feed into your project data? And is the workflow it touches core to how you win or deliver work?
+
+Only one of those four boxes justifies the premium. A chat window with your industry's vocabulary in the system prompt is not a data asset.
+
+Our default advice is still to stand up one general purpose enterprise tool, build real workflows on it, and add a point solution only when you can name the thing you are actually buying.
+
+For more information check our website.
+
+#AEC #AIforAEC #ConstructionTech
