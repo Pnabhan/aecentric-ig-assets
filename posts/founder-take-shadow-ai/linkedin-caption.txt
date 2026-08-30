@@ -1,0 +1,13 @@
+Most firms do not have a shadow AI problem because nobody is using AI. They have one because everybody already is.
+
+When employees sign up for their own AI subscription with a personal card, client drawings, specs, and correspondence can leave the firm's control with no audit trail and no visibility into how that vendor handles the data downstream. Nobody approved that risk, and nobody is tracking it either.
+
+You cannot govern a subscription you do not know exists. One leaked chat log is enough to cost a client relationship built over years.
+
+The fix is not banning AI. It is giving your team an enterprise license, on a plan built with real data controls, so people stop solving this problem on their own with a personal card.
+
+If your firm has not made that call yet, it is the first governance decision worth making.
+
+For more information check our website.
+
+#AEC #AIforAEC #AECentric
