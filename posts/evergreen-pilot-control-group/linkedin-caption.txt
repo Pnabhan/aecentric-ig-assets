@@ -1,0 +1,11 @@
+Your AI pilot needs a control group.
+
+Most pilots we see compare a team using a new tool against a memory of how long the work used to take. That is not a measurement. It is an impression, and people are unreliable at remembering how long routine work took before it changed.
+
+There are two better ways to run it. Log the current process before the tool arrives: hours spent, tasks completed, whatever unit your team already tracks. That is your baseline. If you can afford it, run the same kind of task two ways for a few weeks, one team on the tool and one on the existing process, so the comparison is real.
+
+You would not accept this experimental design from a vendor pitching you their own product. Do not accept it from yourselves either.
+
+For more information check our website.
+
+#AEC #AIforAEC #ConstructionTech

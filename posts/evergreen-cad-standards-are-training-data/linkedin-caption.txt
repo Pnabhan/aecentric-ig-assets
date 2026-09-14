@@ -1,0 +1,13 @@
+Your CAD standards are training data now.
+
+The layer names, sheet templates, and detail libraries a firm has maintained for years were never glamorous. Nobody put them in a budget line. They are also the highest quality material that firm can hand an AI tool, because they encode how the firm actually works, in a form a model can follow.
+
+We see the pattern often. Firms with clean, consistent standards get clean, consistent AI output. Firms with sloppy standards get sloppy output, then blame the model. The model did what it was shown.
+
+Before you evaluate another AI tool, look at your own standards first. The tool will not fix years of inconsistent layer naming or ad hoc sheet setups. It will reflect them back at you, faster and at scale.
+
+The housekeeping nobody funded is now the asset that decides whether AI output is usable. Treat it that way.
+
+For more information check our website.
+
+#AEC #BIM #AIforAEC
