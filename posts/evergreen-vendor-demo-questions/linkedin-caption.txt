@@ -1,0 +1,11 @@
+Most AI vendor pitches are optimized for the demo, not for what happens after you sign. Before your firm sits through another one, we tell clients to bring five questions into the room.
+
+Which model is actually running underneath the product, since a lot of AEC specific tools are a thin layer over someone else's foundation model, and that changes what you can expect from quality and control. What happens to your data once it leaves your building, and specifically whether your inputs train the vendor's model, and whether that stops the moment you cancel. What the tool does when it does not know the answer, instead of guessing with confidence. Who is accountable when the output is wrong, decided before it happens, not after a mistake reaches a client. And what the real cost looks like in month thirteen, once the introductory pricing ends.
+
+A vendor who can answer all five calmly, without dodging, is worth your time. One who cannot is telling you something too.
+
+We sit on your side of the table for exactly these conversations, helping firms evaluate AI vendors on substance instead of the pitch.
+
+For more information check our website.
+
+#AEC #AIforAEC #AECentric
