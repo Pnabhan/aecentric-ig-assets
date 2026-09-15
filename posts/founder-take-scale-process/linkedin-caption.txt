@@ -1,11 +1,9 @@
-AI gives you leverage. Be careful what you point it at.
+AI does not fix a broken business. It scales whatever is already there.
 
-A tool does not fix a broken process. It scales it. If your review steps are unclear, your file naming is improvised, and nobody is sure who signs off, adding AI does not clean that up. It produces the same confusion faster and in greater volume.
+We see firms buy a license expecting it to clean up pricing that undersells the work, scope that keeps drifting after the contract is signed, or handoffs nobody has ever mapped out. None of that changes because a tool got faster. Those are still ordinary business problems, and they are still the firm's to fix.
 
-Scale what is already structured and repeatable. That is where the leverage is real and the result is predictable.
-
-Everything else is worth fixing first, and the fixing is usually cheaper than the tool.
+What AI does well is scale a process that is already sound. Fix the process first, then let AI carry more of it.
 
 For more information check our website.
 
-#AEC #AIforAEC #ConstructionTech
+#AEC #AIforAEC #AECentric
