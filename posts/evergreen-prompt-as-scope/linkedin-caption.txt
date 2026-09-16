@@ -1,0 +1,11 @@
+We tell AEC professionals prompting is a new skill they need to learn. It isn't. It's a skill most of them already have, under a different name.
+
+A good scope of work names the deliverable, states the standard it has to meet, lists the constraints, and says what's explicitly excluded. A good prompt does exactly the same four things, just aimed at an AI tool instead of a project team.
+
+Tell the tool precisely what you want back, not just the general topic. Give it the standard or template to follow, the way you'd cite a code edition or a spec section in a scope. And state what's out of bounds, so it doesn't quietly wander into work nobody asked for.
+
+We've found this framing changes how prompting lands with senior staff in particular. They don't think of themselves as needing to pick up a novelty tech skill. They think of themselves as already being expert scope writers, and they are, which makes the transfer feel a lot closer to home.
+
+For more information check our website.
+
+#AEC #AIforAEC #ConstructionTech
