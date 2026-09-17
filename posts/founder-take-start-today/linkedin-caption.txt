@@ -1,9 +1,11 @@
-Years from now, you will wish you had started today.
+We hear a version of the same hesitation from a lot of firm leaders: they're waiting for the right AI tool, the right pilot, the right moment, before they start. It's an understandable instinct, but it isn't a neutral one. Waiting has a cost, it just doesn't show up anywhere you'd normally look for it.
 
-Waiting for the perfect tool feels prudent, and it carries a cost nobody puts on a budget line. The tools keep improving, so there is always a reason to wait another quarter, and the firms pulling ahead did not wait for that. They started messy, learned what their own work actually needed, and kept going.
+The firms pulling ahead didn't wait for a clean setup. They picked one workflow, started with something imperfect, fixed what broke along the way, and kept going. A year later, that head start compounds into a real gap between them and the firms still evaluating.
 
-That accumulated judgment is the part you cannot buy later. Hesitation feels safe. It is not free.
+Hesitation feels careful. It feels like the responsible choice. It isn't free, and a year or two from now the difference between the firms that started and the firms that waited will be obvious to everyone, including the ones that waited.
+
+Our advice stays the same as always: pick one real workflow, run it as a pilot with a defined scope and a KPI, and start. You can always refine it. You can't refine a decision you haven't made yet.
 
 For more information check our website.
 
-#AEC #AIforAEC #AECentric
+#AEC #AIforAEC #ConstructionTech
