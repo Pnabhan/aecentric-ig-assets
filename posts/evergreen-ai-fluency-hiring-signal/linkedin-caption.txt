@@ -1,0 +1,11 @@
+AI fluency is becoming a hiring signal, not a courtesy line on a resume.
+
+For a while, the bar was simple: has this person opened a chatbot. That bar is almost meaningless now, because nearly everyone has. The signal firms are starting to look for is different: can this person direct an AI tool through a real piece of work, and do they know when the output is wrong.
+
+That is a coordination and judgment skill, not a technical one, and it does not develop just because someone has access to a tool. We see firms build it deliberately: pairing a task with a review step, treating the first few AI-assisted deliverables as training, not production. The firms that treat this as a hiring and development question, project by project, are the ones pulling ahead.
+
+If you are hiring, ask a candidate to walk you through a real task they used AI on, not just whether they have used one. If you are leading a team, build the habit on purpose rather than assuming it will show up on its own.
+
+For more information check our website.
+
+#AEC #AIforAEC #ConstructionTech
