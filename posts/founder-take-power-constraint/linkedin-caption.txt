@@ -1,9 +1,9 @@
-In data center development, power is the real constraint. Not land, not capital, not design capacity.
+In data center development, power is the real constraint, not land or capital.
 
-Capital and land chase power, not the other way around. That single fact reorders how you evaluate a site, and it is why secondary markets keep winning deals that on paper should have gone somewhere larger. If a market can energize sooner, it moves to the front.
+We see developers evaluate a site the way they always have: proximity to a market, cost of land, ease of entitlement. None of that matters much if the utility cannot deliver power on a useful timeline. Capital and land follow power, not the other way around.
 
-The developers getting this right have started thinking like energy companies. They talk to utilities early, they understand interconnection queues, and they treat a power position as the asset it has become.
+That reshapes which markets win. A secondary market that can energize a site sooner is a better bet than a primary market stuck in a multi year interconnection queue. The developers getting this right are starting to think and act like energy companies, not like traditional real estate developers: they underwrite substation capacity and utility timelines as carefully as they underwrite the building itself.
 
 For more information check our website.
 
-#AEC #DataCenters #AIforAEC
+#AEC #Construction #AECentric
