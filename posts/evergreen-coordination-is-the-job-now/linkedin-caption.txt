@@ -1,0 +1,13 @@
+The drawing was never the job. Coordination was.
+
+AI can now produce a credible first pass on a lot of what used to fill an engineer's day: a spec section, a first cut drawing, even a plausible submittal response. It's easy to read that as a threat to the profession. We think it's closer to the opposite.
+
+What AI produces is a draft. What it can't do is decide which deviation actually matters, which stakeholder needs to hear about it today versus next week, or how to keep five consultants pointed the same direction on a project that's moving fast. That coordination work, the judgment calls that used to get squeezed in around hours of production drafting, was always the senior engineer's real value. It was just buried under the production work itself.
+
+AI adoption doesn't remove that value. It exposes it, and it gives firms a reason to staff and price for it directly instead of treating it as overhead on top of drafting hours.
+
+If you're rethinking how your team is structured as AI takes on more first-pass work, that's exactly the conversation we help firms have.
+
+For more information check our website.
+
+#AEC #AIforAEC #ConstructionTech
