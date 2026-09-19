@@ -1,9 +1,9 @@
-When a firm pushes back on AI, the stated reason is usually quality. That is rarely the whole story.
+Most resistance to AI on a project team isn't about quality.
 
-More often it is identity. For a lot of experienced people the work is the craft, and a tool that does part of it quickly can feel like it is taking something rather than giving it back. That reaction deserves respect, not an argument.
+It's about identity. The work feels like the craft, and telling someone that a tool can handle part of it can land as a judgment on their skill, even when that isn't the intent. Pushing back on the resistance directly rarely works, because it isn't really a disagreement about the tool's output. It's about what the work means to the person doing it.
 
-What we have seen work is simple. Show the time it actually gives back on a task they already dislike, let them keep control of the review, and then let them choose. People adopt tools they were invited to, not ones they were handed.
+We think that reaction deserves respect, not an argument. The more effective move is showing someone the hours a workflow change actually gives back to them, concretely, on their own projects, and then letting them decide what to do with that time. People adopt tools faster when they get to choose, and slower when they feel like the choice was already made for them.
 
 For more information check our website.
 
-#AEC #AIforAEC #AECentric
+#AEC #AIforAEC #ConstructionTech
