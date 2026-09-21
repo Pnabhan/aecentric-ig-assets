@@ -1,0 +1,11 @@
+When a firm starts piloting AI, the instinct is to point it at the hardest, most valuable task. That is usually the wrong place to start.
+
+We tell clients to look for work that meets three conditions: everyone on the team does it every week, nobody is precious about how it reads, and no professional stamp depends on getting it exactly right. Meeting minutes, action item logs, RFI log summaries, weekly status reports all fit.
+
+Starting there does two things. It gives your team a visible win within a week, since the time saved is easy to see and easy to trust. And it builds the habit of reviewing AI output before AI ever touches anything that reaches a client, a habit that matters far more once you move past the easy work.
+
+The mistake we see most often is skipping that step and going straight for the task with the biggest payoff. That is exactly the work where a bad output is hardest to catch and costs the most when it slips through.
+
+For more information check our website.
+
+#AEC #AIforAEC #AECentric
