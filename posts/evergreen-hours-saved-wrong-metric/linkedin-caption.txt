@@ -1,0 +1,13 @@
+When an AI pilot wraps up, the first number most teams reach for is hours saved. It is also the wrong number to lead with.
+
+Hours saved is self-reported. It depends on someone remembering, honestly, how long a task used to take, and that memory tends to drift in a flattering direction once a new tool is involved. It is also invisible to anyone outside the firm: a client cannot see it, feel it, or verify it.
+
+We recommend a different measure: cycle time on a deliverable your clients actually wait on. A submittal response. A proposal. A design package. Time it from start to finish before the pilot begins, then time the same kind of deliverable again once the pilot is running. That number comes straight from the project record, not from memory, and it is much harder to inflate without noticing.
+
+It also happens to be the number that matters most. Cycle time shows up in fee and in schedule. A client notices a faster turnaround long before anyone explains what changed behind the scenes.
+
+If you are planning a pilot, pick the one deliverable you will measure before you pick the tool. That decision does more to make the pilot worth running than the tool itself.
+
+For more information check our website.
+
+#AEC #AIforAEC #AECentric
