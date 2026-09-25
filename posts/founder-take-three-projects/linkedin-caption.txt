@@ -1,10 +1,10 @@
-There is a question I keep coming back to when a firm tells me they have adopted AI. Adopted what, exactly?
+Using AI is not the same as changing anything.
 
-Getting people to use a tool is one project. Getting the underlying data clean enough that the tool's output is worth trusting is a second, and it is usually the harder one. Actually moving a number your firm already tracks is a third.
+We watch this happen inside a lot of AEC firms right now: everyone gets a login, a pilot runs for a few weeks, and the story stops there. Adopting a tool is one project. Trusting the data underneath it is a second, harder project. Moving a number that shows up in a schedule or a budget is the one that actually counts, and it is a third project most firms never get to.
 
-They get collapsed into one word, and that is why so many firms feel busy and stuck at the same time. Licenses went out, usage went up, and nothing downstream changed.
+The firms that make real progress keep going past the login. They check the output against work a senior person has already reviewed, find where it breaks, and fix the process behind the prompt, not just the wording of the prompt itself. Then they measure something concrete: hours saved on a specific task, fewer review rounds on a deliverable, a submittal that went out on schedule instead of late.
 
-If you are trying to figure out where your firm actually is, skip the usage stats and ask which number moved.
+Our advice to any firm evaluating AI right now: before you call a pilot a success, name the number you expect to move and check it against the number that actually moved. If you cannot name that number, you have adopted a tool. You have not changed anything yet.
 
 For more information check our website.
 
