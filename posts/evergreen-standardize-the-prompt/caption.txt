@@ -1,0 +1,11 @@
+When a prompt for a repeated task finally works, save it to the firm, not to one person's chat history.
+
+A submittal cover memo, a meeting summary, a spec section outline: once someone in your office gets the wording right and loads in your standards, that prompt belongs in a shared library. The same logic already runs your detail library and your spec master. The firm owns the standard, individuals apply it.
+
+The payoff is not speed. It is consistency. A shared prompt closes the gap between your best writer and everyone else on the team, which is the actual bottleneck to adopting AI at scale.
+
+Start small: pick one recurring document, write the prompt once with a senior reviewer, and put it where the whole team can find it.
+
+Full breakdown at the link in bio. For more information, contact AECentric directly.
+
+#AEC #ArchitectureEngineering #Construction #AIforAEC #BIM #ConstructionTech #AECentric

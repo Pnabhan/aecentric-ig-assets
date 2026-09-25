@@ -1,0 +1,11 @@
+We keep seeing the same pattern inside AEC firms adopting AI: someone finally writes a prompt that works for a repeated task, a submittal cover memo, a meeting summary, a spec section outline, and then it sits in that one person's chat history. Nobody else on the team ever sees it.
+
+That is a missed opportunity, because your firm already knows how to solve this exact problem. You do not let one engineer keep the only copy of a detail library or a spec master in their head. Those live in a shared place, maintained as a firm standard, and everyone draws from the same source. A working prompt deserves the same treatment.
+
+The real payoff is not speed, it is consistency. The gap that slows AI adoption at scale is not the tool, it is the gap between your best writer and everyone else on the team. A shared prompt library, loaded with your firm's actual standards, narrows that gap for every project it touches.
+
+Our advice: do not wait for a firm-wide rollout. Pick one recurring document, write the prompt once with a senior reviewer in the room, and put it somewhere the whole team can find it. Prove it on one workflow before you scale it to ten.
+
+For more information check our website.
+
+#AEC #AIforAEC #AECentric
