@@ -1,10 +1,8 @@
 Using AI is not the same as changing anything.
 
-We watch this happen inside a lot of AEC firms right now: everyone gets a login, a pilot runs for a few weeks, and the story stops there. Adopting a tool is one project. Trusting the data underneath it is a second, harder project. Moving a number that shows up in a schedule or a budget is the one that actually counts, and it is a third project most firms never get to.
+We see this pattern across the firms we work with: adopting a tool is one project. Trusting the data underneath it is another. The project that actually counts is moving a number the firm cares about, whether that is hours, win rate, or cycle time on a deliverable.
 
-The firms that make real progress keep going past the login. They check the output against work a senior person has already reviewed, find where it breaks, and fix the process behind the prompt, not just the wording of the prompt itself. Then they measure something concrete: hours saved on a specific task, fewer review rounds on a deliverable, a submittal that went out on schedule instead of late.
-
-Our advice to any firm evaluating AI right now: before you call a pilot a success, name the number you expect to move and check it against the number that actually moved. If you cannot name that number, you have adopted a tool. You have not changed anything yet.
+Too many firms celebrate the first project, tool adoption, and stop there. The second and third are the ones that change the business.
 
 For more information check our website.
 
