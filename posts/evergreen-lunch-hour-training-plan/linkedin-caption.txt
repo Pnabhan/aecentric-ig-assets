@@ -1,0 +1,11 @@
+Most firms agree their teams need AI training. Almost none of them can find the hours for a formal program, and a formal program usually is not what the moment calls for.
+
+Here is a plan that fits inside the calendar you already have: one lunch hour a week. Pick one real task from a live project, never a demo. One person walks the room through what they asked the tool to do, what came back, and what they had to fix before it was usable.
+
+That fix-it discussion is the actual training. It teaches the habit of checking AI output instead of trusting it on sight, and it moves working prompts out of one person's chat history and into something the whole team can reuse.
+
+It costs nothing but the hour, and it compounds every week you run it.
+
+For more information check our website.
+
+#AEC #AIforAEC #ConstructionTech
