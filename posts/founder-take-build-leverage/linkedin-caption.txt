@@ -1,0 +1,9 @@
+At AECentric, we keep coming back to the same distinction with clients: a one off AI answer helps the project in front of you. A workflow built around that same task helps every project that comes after it.
+
+That difference sounds small until you watch it compound. The first response to a submittal question saves one afternoon. A workflow that handles submittal responses the same way, every time, saves an afternoon a week, indefinitely, and it gets more valuable the longer the team keeps using it.
+
+Most firms optimize for the first kind of win because it is the one they can see immediately. We encourage them to build for the second kind instead: build once, deploy many times.
+
+For more information check our website.
+
+#AEC #AIforAEC #ConstructionTech
