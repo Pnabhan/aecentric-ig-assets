@@ -1,0 +1,17 @@
+Three states have now acted on data center approvals in the span of about ten weeks, and each used a different lever.
+
+Texas: on September 21, Governor Abbott directed the Texas Commission on Environmental Quality to halt permit issuance for data center projects until ERCOT completes a statewide grid and water audit, expected in mid-December.
+
+New York: Executive Order 62, signed July 14, imposed a one year moratorium on discretionary permits for data centers drawing 50 megawatts or more, making it the first state to freeze new large load data center construction statewide.
+
+New Hampshire: on September 18, Senate President Sharon Carson said the chamber would pursue its own moratorium legislation, a policy shift after two new data center proposals surfaced in the Concord area.
+
+Three different mechanisms, governor's order, executive order, legislative signal, pointing at the same underlying cause: grid capacity, water use, and ratepayer cost have outrun the approval process in these states.
+
+For firms running data center work, this is not a policy story to read past. It is a scheduling and scoping problem. A project in predesign in a state that pauses tomorrow sits exactly where it was. A project mid permitting sits somewhere worse.
+
+We're curious how other firms are underwriting that risk into their pipelines right now. If your state paused new approvals tomorrow, what actually breaks first: the schedule, the financing, or the client conversation?
+
+For more information check our website.
+
+#AEC #Construction #AIforAEC
