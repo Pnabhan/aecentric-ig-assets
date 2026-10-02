@@ -1,0 +1,11 @@
+A new report from ACEC Research Institute makes a case we have been making for a while: the biggest AI risk facing engineering firms is not technical, it is organizational.
+
+Published August 19, 2026, the report is built on interviews with 21 leaders spanning engineering firms, project owners, technology vendors, insurers and regulators. It names eight risk domains, from technical reliability and data governance through workforce development, ethics, cybersecurity, financial exposure and strategic leadership. The report's own conclusion is worth sitting with: firms that treat AI as an IT initiative are managing the wrong problem.
+
+We would add one point. AI does not reduce a licensed engineer's professional responsibility. It raises the standard for governance and judgment, because the firm is still the one accountable for what gets built.
+
+If your firm's AI plan lives entirely inside the IT department, that is the gap this report is describing. The fix starts with getting firm leadership, not just IT, into the room where AI decisions get made.
+
+For more information check our website.
+
+#AEC #AIforAEC #AECentric
