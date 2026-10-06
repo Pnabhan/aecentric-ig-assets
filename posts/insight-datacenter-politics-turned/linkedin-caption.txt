@@ -1,0 +1,11 @@
+The data center constraint used to be a technical one. It is now a political one, and the last six weeks make that hard to miss.
+
+On September 16, the US House passed the Ratepayer Protection Act 417 to 3, a near unanimous vote requiring large data centers to pay the full cost of the grid upgrades they require, rather than spreading that cost across all ratepayers. Five days later, Texas widened its own data center pause, first imposed in August on grid interconnection, to cover environmental permits as well. New York had already gone further in July, enacting a one year moratorium on new large data center construction statewide.
+
+None of these three actions turn on whether the engineering is sound. They turn on water, power and public consent, and on whether regulators and communities are willing to move at the pace the project pro forma assumes.
+
+We think this means siting and permitting risk now belongs in the earliest go or no go conversation for this kind of work, not a later due diligence step. The schedule risk on these projects increasingly sits outside the design and construction process entirely.
+
+For more information check our website.
+
+#AEC #Construction #AIforAEC
