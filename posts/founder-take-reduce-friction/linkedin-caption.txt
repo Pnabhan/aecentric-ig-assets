@@ -1,0 +1,9 @@
+Most of what slows an AEC firm down is not a missing tool. It is friction nobody has named.
+
+At AECentric, when we start with a firm, we do not begin with a tool recommendation. We ask the team to find the one step everyone quietly dreads, the task that eats time every week without anyone saying so out loud. Then we ask why it still takes that long. The honest answer is almost always a handoff problem, a review bottleneck, or a format nobody standardized, not a skill gap and not a missing AI feature.
+
+Removing that step beats buying another platform almost every time. A firm that fixes its own friction gets more out of any tool it adds later, because the workflow underneath is finally clean.
+
+For more information check our website.
+
+#AEC #AIforAEC #ConstructionTech
