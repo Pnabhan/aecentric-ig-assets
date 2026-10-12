@@ -1,0 +1,13 @@
+NIST is drafting a new AI Risk Management Framework profile aimed squarely at critical infrastructure, and most AEC firms have not heard about it yet.
+
+The concept note, opened in April 2026, covers energy, water and transportation. NIST has convened a Community of Interest to gather feedback from across the critical infrastructure ecosystem, and it is collecting that feedback through a mailing list and Community Slack channel rather than a formal public comment period. No draft publication date has been set.
+
+It is worth being precise about what this is and is not. It is not a regulation, and it is not a finalized checklist. It is a voluntary profile under the existing AI RMF, still in the shape it is in before a draft exists. That is exactly why it is worth paying attention to now rather than later.
+
+Here is the part we think matters most for AEC: this is the moment the shared vocabulary for AI on infrastructure projects gets written. The AI RMF already organizes work around four functions, Govern, Map, Measure and Manage. Firms that already speak in those terms will be ready to engage with this profile as it develops. Firms that wait until a draft lands will spend their first round of review just learning the vocabulary instead of shaping the substance.
+
+We will be watching the Community of Interest process and will share what changes as NIST moves from concept note toward a draft.
+
+For more information check our website.
+
+#AEC #AIforAEC #ConstructionTech
