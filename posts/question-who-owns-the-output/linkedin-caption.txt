@@ -1,0 +1,13 @@
+The ACEC Research Institute published Leading Through AI Risk on August 19, 2026. One line from it is worth sitting with: AI does not reduce the engineer's professional responsibility, it raises the standard for governance and judgment.
+
+That is easy to agree with in the abstract. It gets harder once AI is actually drafting the calculation, the spec section, or the design narrative that lands on your desk for review.
+
+So we want to ask this plainly, not rhetorically. Who in your firm owns that output once AI drafts it first. Is there a named reviewer. A formal sign off step. Or is it still informal, handled case by case because nobody has written the policy down yet.
+
+We are not posting this to answer it ourselves. We want to know what is actually happening inside real firms right now, because that is the material the next round of guidance on this gets built from.
+
+Tell us how your firm handles it.
+
+For more information check our website.
+
+#AEC #AIforAEC #Construction
