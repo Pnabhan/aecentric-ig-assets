@@ -1,0 +1,9 @@
+The US Census Bureau publishes the only AI adoption number for construction that comes with a disclosed sample, a disclosed margin of error, and a disclosed reference period: the Business Trends and Outlook Survey.
+
+Its October 8, 2026 release asked employer businesses whether they used AI in production or business processes during the two weeks of September 7 to 20, 2026. In construction, NAICS sector 23, 17.2 percent said yes, 75.5 percent said no, and 7.3 percent did not know. That sits 6.6 percentage points behind the 23.8 percent rate across all sectors, and the gap is real: the standard error on the construction estimate is only 0.72 percent, so sampling noise does not explain it. The panel behind both numbers covers roughly 200,000 employer businesses, weighted to the full US employer business population.
+
+We read this as a floor, not a verdict on the industry. Roughly three in four construction businesses reported no AI use at all in that two week window. A rollout plan built on the assumption that competitors are already well ahead will misread where the industry actually stands. The more useful starting point is your own firm: pick one workflow you can already measure, confirm that baseline by hand, then test AI against it. That gives leadership a number they can hold you to, instead of a narrative borrowed from a press release.
+
+For more information check our website.
+
+#AEC #Construction #AIforAEC
