@@ -1,0 +1,15 @@
+79 percent of AEC firms plan significant investments in AI and automation in 2026. 8 percent have a regularly updated, enterprise wide technology roadmap.
+
+That is from Zweig Group's 2026 Information Technology Report of AEC Firms, released October 21, 2026. The same release says only 6 percent of firms have fully embedded AI into operations and 54 percent are still actively exploring it.
+
+The budget split tells the rest of the story. Software is 36.7 percent of IT budgets. Training is 0.8 percent.
+
+Zweig does not publish how many firms took part, so treat these as one benchmark, not a census. But the pattern is easy to recognize: buy the tool, skip the plan, and leave the people who have to use it on their own.
+
+The fix is the order. Write the roadmap first, size the training line second, pick the software last.
+
+What share of your firm's AI budget goes to training?
+
+Full breakdown at the link in bio. For more information, contact AECentric directly.
+
+#AEC #ArchitectureEngineering #AIforAEC #ConstructionTech #AECentric
