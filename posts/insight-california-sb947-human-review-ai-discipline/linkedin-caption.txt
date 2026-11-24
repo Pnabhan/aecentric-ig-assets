@@ -1,0 +1,15 @@
+California now says AI cannot be the only thing deciding to discipline or fire a worker.
+
+Governor Gavin Newsom signed SB 947 on September 30, 2026. It bars California employers from relying solely on an automated decision system to discipline or terminate an employee. A person has to oversee and verify the decision, and the worker gets notice after the tool is used. It does not ban AI from these decisions; it bars AI from being the only basis for them.
+
+Law firm reporting puts the start date at July 1, 2027, with a $500 civil penalty per violation. A companion bill, SB 951, adds AI-related mass layoffs to California's WARN notice rules from January 1, 2027.
+
+If your firm has staff in California, the practical step is simple: list every tool that touches performance reviews, project staffing, discipline or layoffs, and name the person who reviews and signs off on each decision. That record is what you will want to show if a decision is ever questioned.
+
+Does your firm know which of its tools feed people decisions today?
+
+Source: Office of the Governor of California, September 30, 2026.
+
+Full breakdown at the link in bio. For more information, contact AECentric directly.
+
+#AEC #ArchitectureEngineering #AIforAEC #HR #AECentric
