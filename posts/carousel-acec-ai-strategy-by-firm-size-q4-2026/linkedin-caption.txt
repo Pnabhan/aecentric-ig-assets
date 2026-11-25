@@ -1,0 +1,9 @@
+Only 16% of the smallest engineering firms have an AI strategy. At firms over 500 people, it is 87%.
+
+That is from the ACEC Research Institute's Q4 2026 sentiment survey, published November 18. Overall, 57% of member firms now have one, up from about 20% when ACEC first asked in early 2024.
+
+I get why small firms lag. There is no innovation team, no spare budget, and every hour is billable. But I don't think the answer for a 15-person firm is a big plan. It is one page: which tasks you will try it on, who reviews the output, and what client data never goes into a tool.
+
+That page takes a week of honest thinking. The firms that write it now will set their own pace instead of reacting to their clients.
+
+#AEC #AIforAEC #Engineering
