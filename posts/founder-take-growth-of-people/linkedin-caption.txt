@@ -1,11 +1,9 @@
-At AECentric, we do not measure an AI rollout by the tools we bought or the pilots we launched. Those are easy line items for a slide deck, and they tell you almost nothing about whether anything actually changed.
+At AECentric, we have one test for whether AI adoption is actually working inside a firm: not the tools purchased, not the pilots launched, but whether the team is producing more this year than it did last year.
 
-The test we use instead is simpler, and harder to fake. Can the team handle more complex work this year than it could last year, in less time, with less hand holding. If a new tool did not move that number, it was not a win, it was an expense.
+Those first two are easy to point to. A license count and a pilot program both look like progress on a slide, and both can sit there doing very little. The number that actually tells you something is harder to fake: output, measured against the same team, twelve months apart.
 
-We see firms that are proud of how many pilots they ran, with nothing to show for it beyond the pilots themselves. The firms that are actually ahead are not the ones with the longest tool list. They are the ones whose people got measurably better at the work.
-
-That is the standard we hold our own engagements to, and the one we think every AEC firm should be applying to its own AI investment before the next renewal comes due.
+We hold our own work to that standard, and we think every AEC firm evaluating AI investment should too. Tools and pilots are inputs. Team capacity is the result.
 
 For more information check our website.
 
-#AEC #AIforAEC #ConstructionTech
+#AEC #AIforAEC #Construction
