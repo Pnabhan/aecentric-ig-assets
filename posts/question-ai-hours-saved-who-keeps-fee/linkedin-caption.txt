@@ -1,0 +1,9 @@
+Firms using AI report average labor savings of about 15% in the areas where they have implemented it, according to the ACEC Research Institute's Beyond the Hour study, published October 26, 2026. The study surveyed 488 ACEC member firm leaders and interviewed 19 executives.
+
+That saving raises a pricing question every engineering firm will face. Billed hourly, a faster deliverable is a smaller invoice. ACEC's own caution is that without changes in compensation, firms may struggle to recover their technology investments even as clients benefit.
+
+We suggest a simple first step: pick one repeat deliverable where AI has already shortened the work, and price the next one on scope and value rather than hours.
+
+How is your firm pricing work that AI has made faster?
+
+#AEC #Engineering #AIforAEC
